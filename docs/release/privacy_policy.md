@@ -1,105 +1,39 @@
-# RecallBox Privacy Policy
+# Privacy Policy for Inspiro
 
-**Last Updated**: January 27, 2026
+**Last updated: January 2026**
 
-## Our Commitment
+Inspiro ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by Inspiro.
 
-RecallBox is built with privacy as the foundation. We believe your personal knowledge is yours alone.
+This Privacy Policy applies to our mobile application "Inspiro". By accessing or using our Service, you signify that you have read, understood, and agree to our collection, storage, use, and disclosure of your personal information as described in this Privacy Policy.
 
-## Data Collection: NONE
+## Information We Collect
 
-**We do not collect ANY personal data**. Period.
+### 1. Personal Data
+We do not collect any personal data such as your name, email address, or phone number. Inspiro is designed to work offline and does not require user accounts.
 
-Specifically:
-- ❌ No user accounts
-- ❌ No email addresses
-- ❌ No names or personal identifiers
-- ❌ No usage analytics
-- ❌ No crash reporting data
-- ❌ No device identifiers
-- ❌ No location data
-- ❌ No behavioral tracking
+### 2. Usage Data
+Inspiro stores your "Favorite Quotes" locally on your device. This data is not transmitted to our servers or any third-party services.
 
-## Data Storage: LOCAL ONLY
+### 3. Permissions
+- **Internet Access**: Required to check for app updates or load external links (like this privacy policy).
 
-All your notes and data are stored exclusively on YOUR device using local storage (Hive database).
+## How We Use Your Information
 
-- ✅ Your notes never leave your device
-- ✅ No cloud syncing
-- ✅ No external servers
-- ✅ No backups to our systems
-
-## Third-Party Services
-
-### Google Gemini AI
-When you search your notes, your query and the relevant note context are sent to Google's Gemini API to process the search. However:
-- Only YOUR saved notes are included in the search context
-- No user identification is sent
-- Google's AI processes the request and returns results
-- We do not store or access these API calls
-- Refer to [Google's Privacy Policy](https://policies.google.com/privacy) for their data handling
-
-### Google Fonts
-We use Google Fonts to display text. This may load fonts from Google's servers, which is standard practice and subject to [Google's Privacy Policy](https://policies.google.com/privacy).
-
-## Permissions Required
-
-### Internet Permission
-Required to:
-- Access Google Gemini AI for search functionality
-- Load Google Fonts
-- Open external links (Privacy Policy, Support)
-
-We do NOT use internet permission for:
-- Tracking
-- Analytics
-- Data collection
-- Advertising
-
-## Your Rights
-
-Since we don't collect any data, there's nothing to:
-- Request
-- Delete
-- Export (from our side - you can export your own notes anytime within the app)
-- Modify
-
-## Children's Privacy
-
-RecallBox does not knowingly collect data from anyone, including children under 13. Since we collect no data at all, the app is safe for all ages.
+Since we do not collect personal usage data, your information remains solely on your device. We do not use your data for advertising or analytics.
 
 ## Data Security
 
-Your notes are stored locally using industry-standard local database encryption (Hive Flutter). The security of your device determines the security of your data.
+Your data is stored locally on your device using secure storage mechanisms provided by the operating system (Android/iOS). We implement reasonable security measures to protect your information.
 
-## Changes to Privacy Policy
+## Children's Privacy
 
-If we ever change our privacy practices, we will update this policy and notify users through the app.
+Inspiro does not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13.
 
-## What Happens If You Uninstall
+## Changes to This Privacy Policy
 
-When you uninstall RecallBox, all your local data is removed from your device per Android/iOS standard practices. This data is NOT recoverable.
-
-## Export Your Data
-
-You can export all your notes as JSON at any time from the Settings screen. This gives you full control and ownership of your data.
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 ## Contact Us
 
-If you have questions about this Privacy Policy:
-
-**Email**: support@recallbox.app  
-**Website**: https://recallbox.app
-
-## Summary
-
-**What we collect**: Nothing  
-**Where data is stored**: Only on your device  
-**Who we share with**: No one  
-**Your control**: Complete
-
-RecallBox exists to serve you, not to harvest your data.
-
----
-
-© 2026 RecallBox. All rights reserved.
+If you have any questions about this Privacy Policy, please contact us:
+- By email: support@inspiro.app
